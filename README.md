@@ -1,19 +1,13 @@
-### Hi there 👋
+# Master Muntazir <sub>*Mastery begins with humility.*</sub> ![Profile View Counter](https://komarev.com/ghpvc/?username=ErMunu)
 
-<!--
-**ErMunu/ErMunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErMunu&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on 
+- [ ] 😂 Here is a random joke that'll make you laugh!
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+- [ ] My abilities considerably exceed these estimates.
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ErMunu&show_icons=true&count_private=true&theme=dark)
+
