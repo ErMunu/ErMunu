@@ -3,11 +3,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErMunu&layout=compact&theme=dark&count_private)
 
+
 - [ ] 😂 Here is a random joke that'll make you laugh!
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+
 - [ ] My abilities considerably exceed these estimates.
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ErMunu&show_icons=true&count_private=true&theme=dark)
 
