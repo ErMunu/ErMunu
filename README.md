@@ -1,7 +1,7 @@
 # Master Muntazir <sub>*Mastery begins with humility.*</sub> ![Profile View Counter](https://komarev.com/ghpvc/?username=ErMunu)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErMunu&layout=compact&theme=dark&count_private)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErMunu&layout=compact&theme=dark&langs_count=10)
 
 
 - [ ] 😂 Here is a random joke that'll make you laugh!
